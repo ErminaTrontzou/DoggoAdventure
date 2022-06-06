@@ -1,0 +1,4 @@
+move east 
+take axe 
+move west 
+move west 
